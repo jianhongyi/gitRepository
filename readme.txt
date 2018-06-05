@@ -1,7 +1,7 @@
 Git is a distributed version control system.
-Git is free solfware distributed GPL.
+Git is A free solfware distributed GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Create a text branch and no fast-forard.
-you!
+fuck you!
